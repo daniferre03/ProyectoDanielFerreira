@@ -22,4 +22,10 @@ public class DanielFerreiraFutbol {
 	public int getNJugadores() {
 		return nJugadores;
 	}
+
+	public void setnJugadores(int nJugadores) {
+		this.nJugadores = nJugadores;
+	}
+	
+	
 }
