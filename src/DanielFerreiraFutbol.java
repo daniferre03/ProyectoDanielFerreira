@@ -34,4 +34,10 @@ public class DanielFerreiraFutbol {
 	public void setNombreJugador(String nombreJugador) {
 		this.nombreJugador=nombreJugador;
 	}
+	
+	public static void nombreEquipo(String nombreEquipo) {
+		for(int i=0;i<1000;i++) {
+			System.out.println("Riojasala");
+		}
+	}
 }
