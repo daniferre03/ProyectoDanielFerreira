@@ -30,4 +30,8 @@ public class DanielFerreiraFutbol {
 	public String getNombreJugador() {
 		return nombreJugador;
 	}
+	
+	public void setNombreJugador(String nombreJugador) {
+		this.nombreJugador=nombreJugador;
+	}
 }
