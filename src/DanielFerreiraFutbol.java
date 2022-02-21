@@ -15,6 +15,8 @@ public class DanielFerreiraFutbol {
 		return nombreEquipo;
 	}
 
-	
+	public void setNombreEquipo(String nombreEquipo) {
+		this.nombreEquipo=nombreEquipo;
+	}
 	
 }
