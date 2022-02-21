@@ -10,4 +10,11 @@ public class DanielFerreiraFutbol {
 		this.nJugadores=nJugadores;
 		this.nombreJugador=nombreJugador;
 	}
+
+	public String getNombreEquipo() {
+		return nombreEquipo;
+	}
+
+	
+	
 }
